@@ -1,9 +1,14 @@
 1. cd Desktop
    mkdir TwApB
 3. 4 godziny temu
-4. S¹ 4 pliki
+4. SÅ¡ 4 pliki
 5. "To repozytorium zawiera zadania do   
    wykonania z przedmiotu Tworzenie aplikacji    bazodanowych
 6. cd Desktop/TwApB
    git init
 7. dir> AleksanderRubis.txt
+9. git add zadanie1/2/3
+   git commit -m "..."
+   git remote add origin https://github.com/Potop12/kolos.git
+   git push -u origin master
+   
