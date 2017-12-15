@@ -1,0 +1,9 @@
+1. cd Desktop
+   mkdir TwApB
+3. 4 godziny temu
+4. S¹ 4 pliki
+5. "To repozytorium zawiera zadania do   
+   wykonania z przedmiotu Tworzenie aplikacji    bazodanowych
+6. cd Desktop/TwApB
+   git init
+7. dir> AleksanderRubis.txt
